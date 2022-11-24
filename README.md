@@ -19,7 +19,11 @@ Now, let's see where life takes me!</p>
 🔭 I’m currently working on a series of Javascript based React.js portfolio projects in order to increase my Github profile rankings!
 <br/>
 🌱 I’m currently learning how to further my understanding and skills in; Databases, Document stores and search technologies like MongoDb and MySql.
+<br/>
 👯 I’m looking to collaborate with companies/individuals on a variety of projects, I'm very open to different technologies and learning new things if I don't have the understanding, I'll make it my mission to learn.
+<br/>
 🤔 I’m looking for help with finding great resources to teach myself new techniques and new projects that could be useful in a professional enviornment, if you know any, let me know.
+<br/>
 💬 Ask me about my favourite cars (cars are my passion and love) I could talk all day about them!
+<br/>
 📫 How to reach me: LinkedIn: https://www.linkedin.com/in/cbellocci/ Email: christopher.bellocci@gmail.com
