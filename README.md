@@ -13,6 +13,8 @@ Oh, I also speak native English and Italian.
 
 Now, let's see where life takes me!</p>
 
+<h3>What am I doing now?</h3>
+
 <li>🔭 I’m currently working on a series of Javascript based React.js portfolio projects in order to increase my Github profile rankings!</li>
 <li>🌱 I’m currently learning how to further my understanding and skills in; Databases, Document stores and search technologies like MongoDb and MySql.</li>
 <li>👯 I’m looking to collaborate with companies/individuals on a variety of projects, I'm very open to different technologies and learning new things if I don't have the understanding, I'll make it my mission to learn.</li>
