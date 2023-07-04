@@ -1,4 +1,4 @@
-<h1>Hi my names Chris 👋🏽 ! I'm a Full Stack Developer and aspiring Founder.</h1>
+<h1>Hi 👋🏽 ! I'm a Full Stack Developer, Freelancer, Entrepreneur and Sales Enthusiast.</h1>
 
 <h3>Professional Summary</h3>
 
