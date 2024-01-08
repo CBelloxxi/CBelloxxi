@@ -11,7 +11,7 @@ Currently, I am expanding my skill set through self-teaching and building MERN S
 
 <h3>What am I doing now?</h3>
 
-🔭 I’m currently working on a series of Javascript based React.js portfolio projects in order to increase my knowledge base, and make myself more employable as I want to get a job as a FullStack Developer in a cool company!
+🔭 I’m currently working on a series of Javascript based React.js portfolio projects in order to increase my knowledge base, and make myself more employable as I want to get a job as a Frontend Developer in a cool company!
 <br/>
 <br/>
 🌱 I’m currently learning how to further my understanding and skills in; Databases, Document stores and search technologies like MongoDb and MySql.
