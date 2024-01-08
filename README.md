@@ -1,4 +1,4 @@
-<h1>Hi 👋🏽 ! I'm a Frontend Developer, Freelancer, Entrepreneur and Sales Enthusiast.</h1>
+<h1>Hi 👋🏽 ! I'm a Frontend Developer, Freelancer, Solopreneur and Sales Enthusiast.</h1>
 
 <h3>Professional Summary</h3>
 
