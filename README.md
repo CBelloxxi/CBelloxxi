@@ -1,4 +1,4 @@
-<h1>Hi 👋🏽 ! I'm a Full Stack Developer, Frontend Frontend Focused, Contractor, Freelancer, Solopreneur and Sales Enthusiast.</h1>
+<h1>Hi 👋🏽 ! I'm a Full Stack Developer, Front-End Focused, Contractor, Freelancer, Solopreneur and Sales Enthusiast.</h1>
 
 <h3>Professional Summary</h3>
 
