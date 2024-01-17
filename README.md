@@ -26,4 +26,5 @@ Currently, I am expanding my skill set through self-teaching and building MERN S
 💬 Ask me about my favourite cars (cars are my passion and love) I could talk all day about them!
 <br/>
 <br/>
-📫 How to reach me: Portfolio Site: https://cbcodes.vercel.app/ LinkedIn: https://www.linkedin.com/in/cbellocci/ Email: christopher.bellocci@gmail.com
+📫 How to reach me: 
+<li>Portfolio Site: https://cbcodes.vercel.app/</li> <li>LinkedIn: https://www.linkedin.com/in/cbellocci/</li> <li>Email: christopher.bellocci@hotmail.com</li>
