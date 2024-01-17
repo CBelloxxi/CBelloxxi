@@ -9,7 +9,7 @@ Experience in B2C and B2B Sales, a natural people person. Native English speaker
 
 Currently, I am expanding my skill set through self-teaching and building MERN Stack Projects. I aim to achieve the best results in every role, I also believe my ability to work independently, adaptability and eagerness to learn make me a valuable addition to any team.</p>
 
-![Portfolio Site](https://github.com/CBelloxxi/Promptopia/blob/main/public/assets/gif/promptopia.gif)
+![Portfolio Site](https://github.com/CBelloxxi/CBelloxxi/blob/main/personalportfolio.gif)
 
 <h3>What am I doing now?</h3>
 
