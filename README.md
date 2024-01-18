@@ -2,7 +2,7 @@
 
 <h3>Professional Summary</h3>
 
-<p>Full Stack Developer, Frontend Focused with strong technical skills in languages such as; HTML, CSS, Javascript and Ruby. Including their frameworks such as React, Node and Rails. Proficient in utilising API, Testing Frameworks and modern Agile Development.
+<p>Full Stack Developer, Frontend Focused with strong technical skills in languages such as; HTML, CSS, Javascript and Ruby. Including their frameworks such as Next, React, Node and Rails. Proficient in utilising API, Testing Frameworks and modern Agile Development.
   
 Builds include Next, Create-React-App, Express and reusable components. Knowledge of FireDB and MongoDB. Version Control using Git and Hosting using Heroku and Netlify.
 Experience in B2C and B2B Sales, a natural people person. Native English speaker, and Fluent in Italian. Creates lasting connections with everyone I meet, hardworking by nature. Friendly, attentive demeanour, willing to learn quickly and to take constructive criticism in my stride.
