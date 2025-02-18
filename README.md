@@ -32,14 +32,16 @@ Currently, I am expanding my skill set through self-teaching and building MERN S
 <li>Portfolio Site: https://cbcodes.vercel.app/</li> <li>LinkedIn: https://www.linkedin.com/in/cbellocci/</li> <li>Email: christopher.bellocci@hotmail.com</li>
 
 <br/>
-📊 GitHub Stats
+<h3>📊 GitHub Stats<h3/>
+<br/>
 
 ![CBelloxxi's GitHub stats](https://github-readme-stats.vercel.app/api?username=CBelloxxi&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CBelloxxi&layout=compact&theme=radical)
 
 <br/>
-🏆 GitHub Trophies
+<h3>🏆 GitHub Trophies<h3/>
+<br/>
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=CBelloxxi&theme=radical)
 
